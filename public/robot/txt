@@ -1,0 +1,6 @@
+# Robots.txt untuk Aplikasi AWS Amplify
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://your-amplify-app.amplifyapp.com/sitemap.xml
